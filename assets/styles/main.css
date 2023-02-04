@@ -58,9 +58,11 @@
     font-weight: bold;
 }
 
-
-
-
+.brushes h2,
+.frames h2,
+.paint h2 {
+    font-weight: bold;
+}
 
 
 /* ==  LAYOUT  == */
