@@ -61,11 +61,19 @@
 
 /* ====  Widths  ==== */
 
+.page-container {
+    width: 95%;
+}
+
 .title {
     width: 100%;
 }
 
 /* ====  Alignments  ==== */
+
+.page-container {
+    margin: 0 auto;;
+}
 
 .title {
     text-align: center;
