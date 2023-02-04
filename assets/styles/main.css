@@ -16,7 +16,6 @@
 }
 
 
-
 /* ==  COLOR SCHEMES  == */
 
 .title h1 {
@@ -42,8 +41,6 @@
 }
 
 
-
-
 /* ==  FONTS  == */
 
 /* ====  Font Families  ==== */
@@ -67,17 +64,7 @@
 
 /* ==  LAYOUT  == */
 
-/* ====  Heights  ==== */
 
-.title {
-    height: 5rem;
-}
-
-.brushes,
-.frames,
-.paint {
-    height: 15rem;
-}
 
 /* ====  Widths  ==== */
 
@@ -157,6 +144,19 @@
     .paint h3 {
         font-size: 1.5rem;
     }
+
+    /* ====  Heights  ==== */
+
+    .title {
+        height: 5rem;
+    }
+
+    .brushes,
+    .frames,
+    .paint {
+        height: 15rem;
+    }
+    
 }
 
 
