@@ -74,6 +74,26 @@
 
 /* ====  Large  ==== */
 
+@media (min-width: 1008px) {
+
+    /* ====  Font Sizes  ==== */
+
+    .title h1 {
+        font-size: 3rem;
+    }
+
+    .brushes h2,
+    .frames h2,
+    .paint h2 {
+        font-size: 2.5rem;
+    }
+
+    .brushes h3,
+    .frames h3,
+    .paint h3 {
+        font-size: 1.5rem;
+    }
+}
 
 
 
