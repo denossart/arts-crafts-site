@@ -11,15 +11,15 @@
 
 /* ==  FONTS  == */
 
-/* ====  Font Family  ==== */
+/* ====  Font Families  ==== */
 
 * {
     font-family: Helvetica;
 }
 
-/* ====  Font Weight  ==== */
+/* ====  Font Weights  ==== */
 
-* {
+header h1 {
     font-weight: bold;
 }
 
