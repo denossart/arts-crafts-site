@@ -126,11 +126,13 @@
     padding-bottom: 1.5rem;
 }
 */
+
 /* ====  Margins  ==== */
 
 .title {
     margin-bottom: 5rem;
 }
+
 
 
 /* ==  VIEWPORTS  == */
@@ -155,6 +157,10 @@
     .frames h3,
     .paint h3 {
         font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1.25rem;
     }
 
     /* ====  Heights  ==== */
