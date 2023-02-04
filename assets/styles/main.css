@@ -64,8 +64,6 @@
 
 /* ==  LAYOUT  == */
 
-
-
 /* ====  Widths  ==== */
 
 .page-container {
@@ -84,6 +82,14 @@
 
 .title {
     text-align: center;
+}
+
+/* ====  Displays  ==== */
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /* ====  Positionings  ==== */
