@@ -79,6 +79,13 @@
     text-align: center;
 }
 
+/* ====  Positions  ==== */
+
+.page-container {
+    position: relative;
+    top: 1.5rem;
+}
+
 
 /* ==  VIEWPORTS  == */
 
