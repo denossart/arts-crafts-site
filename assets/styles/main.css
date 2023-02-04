@@ -9,6 +9,18 @@
 }
 
 
+/* ==  FONTS  == */
+
+
+/* ====  Font Sizes  ==== */
+
+.title h1 {
+    font-size: 3rem;
+}
+
+
+
+
 /* ==  LAYOUT  == */
 
 /* ====  Heights  ==== */
@@ -27,4 +39,10 @@
 
 .title {
     width: 100%;
+}
+
+/* ====  Alignments  ==== */
+
+.title {
+    text-align: center;
 }
