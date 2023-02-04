@@ -14,3 +14,10 @@
 .title {
     height: 5rem;
 }
+
+.brushes,
+.frames,
+.paint {
+    height: 15rem;
+}
+
