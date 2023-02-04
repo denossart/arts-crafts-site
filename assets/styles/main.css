@@ -164,15 +164,8 @@
     }
 
     .section-container {
-        height: 20rem;
+        height: 30rem;
     }
-    /*
-    .brushes,
-    .frames,
-    .paint {
-        height: 25rem;
-    }
-    */
 }
 
     .brushes h2,
