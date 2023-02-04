@@ -160,13 +160,17 @@
     .brushes,
     .frames,
     .paint {
-        height: 15rem;
+        height: 25rem;
     }
 
     .brushes h2,
     .frames h2,
     .paint h2 {
         height: 3rem;
+    }
+
+    img {
+        height: 10rem;
     }
 
 }
