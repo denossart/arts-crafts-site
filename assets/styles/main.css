@@ -118,6 +118,18 @@
         font-size: 1.5rem;
     }
 
+    /* ====  Heights  ==== */
+
+    .title {
+        height: 5rem;
+    }
+
+    .brushes,
+    .frames,
+    .paint {
+        height: 15rem;
+    }
+
 }
 
 /* ====  Medium  ==== */
@@ -148,7 +160,7 @@
     /* ====  Heights  ==== */
 
     .title {
-        height: 5rem;
+        height: 15rem;
     }
 
     .brushes,
@@ -156,7 +168,6 @@
     .paint {
         height: 15rem;
     }
-    
 }
 
 
