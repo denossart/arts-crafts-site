@@ -9,6 +9,23 @@
 }
 
 
+/* ==  BACKGROUNDS  == */
+
+.title {
+    background-image: url(./assets/images/pattern.webp);
+}
+
+
+
+/* ==  COLOR SCHEMES  == */
+
+.title h1 {
+    color: khaki;
+}
+
+
+
+
 /* ==  FONTS  == */
 
 /* ====  Font Families  ==== */
@@ -19,7 +36,7 @@
 
 /* ====  Font Weights  ==== */
 
-header h1 {
+.title h1 {
     font-weight: bold;
 }
 
