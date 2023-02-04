@@ -101,6 +101,7 @@
 .section-container {
     display: flex;
     flex-direction: column;
+    
 }
 
 .brushes h2,
@@ -211,11 +212,16 @@
         height: 15rem;
     }
 
+    .section-container {
+        height: 15rem;
+    }
+    /*
     .brushes,
     .frames,
     .paint {
         height: 15rem;
     }
+    */
 }
 
 /* ==  DEBUGGING  == */
