@@ -68,7 +68,6 @@
 }
 
 
-
 /* ==  LAYOUT  == */
 
 /* ====  Widths  ==== */
@@ -111,6 +110,14 @@
 .page-container {
     position: relative;
     top: 1.5rem;
+}
+
+/* ====  Paddings  ==== */
+
+.brushes h3,
+.frames h3,
+.paint h3 {
+    padding-bottom: 1.5rem;
 }
 
 /* ====  Margins  ==== */
