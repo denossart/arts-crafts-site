@@ -172,7 +172,6 @@
     .section-container {
         height: 30rem;
     }
-}
 
     .brushes h2,
     .frames h2,
@@ -212,6 +211,12 @@
     .title {
         height: 15rem;
     }
+
+    .section-container {
+        height: 35rem;
+    }
+
+}
 
 
 /* ==  DEBUGGING  == */
