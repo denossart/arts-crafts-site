@@ -98,6 +98,11 @@
     justify-content: center;
 }
 
+.section-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .brushes h2,
 .frames h2,
 .paint h2 {
@@ -213,6 +218,11 @@
     }
 }
 
+/* ==  DEBUGGING  == */
+
+* {
+    outline: 1px solid red;
+}
 
 
 
